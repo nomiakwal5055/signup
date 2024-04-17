@@ -1,0 +1,53 @@
+body {
+    background-color: cyan;
+    color: rgba(9, 35, 40, 0.817)
+}
+form{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: initial;
+    padding: 15px;
+    background-image: url(logo.jpg);
+    background-repeat: no-repeat;
+    border: 5px solid black;
+    min-height: fit-content;
+    width: fit-content;
+    border-style: initial;
+      border-style: double;
+       border-color: blueviolet;
+        align-items: center;
+         align-self: center;
+}
+h1{
+    color: blue;
+}
+button {
+    padding: 10px;
+    border-color: chartreuse;
+    border-style: inherit;
+    border-radius: 10px;
+    color: white;
+    background-color: slateblue;
+}
+legend {
+    background-color: black;
+    color: brown;
+    padding: 3px 6px;
+    stroke: blue;
+    border-style: inset;
+}
+select{
+    border-radius: 5px;
+    box-sizing: content-box;
+    border: solid blue;
+    padding: 1px 1px;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: inset;
+    border-style: inset;
+}
+table {
+    background-color: skyblue;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
